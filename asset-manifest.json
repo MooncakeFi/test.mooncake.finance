@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.d6f8697e.css",
-    "main.js": "/static/js/main.cc0f4fff.js",
+    "main.js": "/static/js/main.ea06c87e.js",
     "static/js/841.bc7560f7.chunk.js": "/static/js/841.bc7560f7.chunk.js",
     "static/js/888.e9615905.chunk.js": "/static/js/888.e9615905.chunk.js",
     "static/js/642.4bae3937.chunk.js": "/static/js/642.4bae3937.chunk.js",
@@ -58,7 +58,7 @@
     "static/media/moonpay.svg": "/static/media/moonpay.22244d1fb39c91d553d68689c18d53e3.svg",
     "index.html": "/index.html",
     "main.d6f8697e.css.map": "/static/css/main.d6f8697e.css.map",
-    "main.cc0f4fff.js.map": "/static/js/main.cc0f4fff.js.map",
+    "main.ea06c87e.js.map": "/static/js/main.ea06c87e.js.map",
     "841.bc7560f7.chunk.js.map": "/static/js/841.bc7560f7.chunk.js.map",
     "888.e9615905.chunk.js.map": "/static/js/888.e9615905.chunk.js.map",
     "642.4bae3937.chunk.js.map": "/static/js/642.4bae3937.chunk.js.map",
@@ -107,6 +107,6 @@
   },
   "entrypoints": [
     "static/css/main.d6f8697e.css",
-    "static/js/main.cc0f4fff.js"
+    "static/js/main.ea06c87e.js"
   ]
 }
