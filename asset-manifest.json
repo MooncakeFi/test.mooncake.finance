@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.2fc2aabf.css",
-    "main.js": "/static/js/main.0072b7da.js",
+    "main.css": "/static/css/main.a462a07f.css",
+    "main.js": "/static/js/main.0ae817bc.js",
     "static/js/835.4409f0c3.chunk.js": "/static/js/835.4409f0c3.chunk.js",
     "static/js/982.de806eb5.chunk.js": "/static/js/982.de806eb5.chunk.js",
     "static/js/119.dc6a8a67.chunk.js": "/static/js/119.dc6a8a67.chunk.js",
@@ -53,12 +53,15 @@
     "static/media/referrals.jpeg": "/static/media/referrals.2ad66047f1d6fd1b0915.jpeg",
     "static/media/F9cw31ZWoAA1RBN.jpeg": "/static/media/F9cw31ZWoAA1RBN.af99019e656e9acad62f.jpeg",
     "static/media/F9cu6_KW8AA7cFP.jpeg": "/static/media/F9cu6_KW8AA7cFP.18c23dd8c5d8b249527f.jpeg",
+    "static/media/gameIcon.png": "/static/media/gameIcon.f471ba09577821570627.png",
     "static/media/brandLogo.png": "/static/media/brandLogo.ab65bbf1daddf04bdae0.png",
+    "static/media/google.png": "/static/media/google.960c670a7a8d952eba35.png",
     "static/media/paybis.svg": "/static/media/paybis.fded374340238cea4f30cceef87c6cd4.svg",
     "static/media/moonpay.svg": "/static/media/moonpay.22244d1fb39c91d553d68689c18d53e3.svg",
     "index.html": "/index.html",
-    "main.2fc2aabf.css.map": "/static/css/main.2fc2aabf.css.map",
-    "main.0072b7da.js.map": "/static/js/main.0072b7da.js.map",
+    "static/media/discord.svg": "/static/media/discord.debecff179b518498338968954628ed8.svg",
+    "main.a462a07f.css.map": "/static/css/main.a462a07f.css.map",
+    "main.0ae817bc.js.map": "/static/js/main.0ae817bc.js.map",
     "835.4409f0c3.chunk.js.map": "/static/js/835.4409f0c3.chunk.js.map",
     "982.de806eb5.chunk.js.map": "/static/js/982.de806eb5.chunk.js.map",
     "673.dc39b1dc.chunk.js.map": "/static/js/673.dc39b1dc.chunk.js.map",
@@ -106,7 +109,7 @@
     "611.6242bb63.chunk.js.map": "/static/js/611.6242bb63.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2fc2aabf.css",
-    "static/js/main.0072b7da.js"
+    "static/css/main.a462a07f.css",
+    "static/js/main.0ae817bc.js"
   ]
 }
