@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdice_game=self.webpackChunkdice_game||[]).push([[5486],{55486:function(e,c,s){e.exports=s.p+"static/media/ArrowLeft.1921a31218ec12b79f62.svg"}}]);

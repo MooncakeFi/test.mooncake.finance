@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdice_game=self.webpackChunkdice_game||[]).push([[3751],{23751:function(e,c,s){e.exports=s.p+"static/media/ColoredAlert.1368d1b2222913db8c71.svg"}}]);

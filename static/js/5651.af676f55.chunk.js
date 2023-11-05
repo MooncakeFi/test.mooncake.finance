@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdice_game=self.webpackChunkdice_game||[]).push([[5651],{25651:function(e,a,c){e.exports=c.p+"static/media/Mahalg.279ef59c4906f2b77235.svg"}}]);

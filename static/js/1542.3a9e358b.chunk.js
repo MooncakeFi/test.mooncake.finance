@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdice_game=self.webpackChunkdice_game||[]).push([[1542],{21542:function(e,a,c){e.exports=c.p+"static/media/ColoredPending.f2f4de6a7879bb4a04c6.svg"}}]);

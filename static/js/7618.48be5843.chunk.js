@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdice_game=self.webpackChunkdice_game||[]).push([[7618],{57618:function(e,c,s){e.exports=s.p+"static/media/MAHAX.2e07f944f77c8c6dcc4e.svg"}}]);

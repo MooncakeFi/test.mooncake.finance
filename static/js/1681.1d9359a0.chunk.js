@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdice_game=self.webpackChunkdice_game||[]).push([[1681],{31681:function(e,s,a){e.exports=a.p+"static/media/HOPE.d3459a6f2550ef09b4d7.svg"}}]);

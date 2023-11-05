@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdice_game=self.webpackChunkdice_game||[]).push([[7818],{67818:function(e,a,s){e.exports=s.p+"static/media/Loans.b8857870daaf536e4bd5.svg"}}]);

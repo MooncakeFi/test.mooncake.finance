@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdice_game=self.webpackChunkdice_game||[]).push([[3994],{63994:function(e,c,s){e.exports=s.p+"static/media/Caution.b850f01d835349ec606e.svg"}}]);

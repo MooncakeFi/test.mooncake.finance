@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdice_game=self.webpackChunkdice_game||[]).push([[5790],{15790:function(e,a,c){e.exports=c.p+"static/media/CosmicFinance.94a05c1984a951e38a28.svg"}}]);

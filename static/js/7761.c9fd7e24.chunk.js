@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdice_game=self.webpackChunkdice_game||[]).push([[7761],{27761:function(e,c,s){e.exports=s.p+"static/media/GreenCheck.f1d25b75d105130900e1.svg"}}]);

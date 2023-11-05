@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdice_game=self.webpackChunkdice_game||[]).push([[5208],{45208:function(e,c,d){e.exports=d.p+"static/media/ArrowDownWhite.7070ad2bd0cd079dde03.svg"}}]);

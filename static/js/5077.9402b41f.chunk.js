@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdice_game=self.webpackChunkdice_game||[]).push([[5077],{45077:function(e,a,c){e.exports=c.p+"static/media/YearnFinance.f2350324c387adc2a32e.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdice_game=self.webpackChunkdice_game||[]).push([[2527],{92527:function(e,c,s){e.exports=s.p+"static/media/superMAHA.2e07f944f77c8c6dcc4e.svg"}}]);

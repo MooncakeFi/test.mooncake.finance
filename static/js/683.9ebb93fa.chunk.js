@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdice_game=self.webpackChunkdice_game||[]).push([[683],{683:function(e,s,a){e.exports=a.p+"static/media/Sushiswap.06f8f9f895658fa67c8a.svg"}}]);

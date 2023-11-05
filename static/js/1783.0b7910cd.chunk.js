@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdice_game=self.webpackChunkdice_game||[]).push([[1783],{91783:function(e,a,c){e.exports=c.p+"static/media/BentoMenu.0f7f463a4c163f26283a.svg"}}]);

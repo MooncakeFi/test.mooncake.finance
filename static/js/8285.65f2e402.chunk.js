@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdice_game=self.webpackChunkdice_game||[]).push([[8285],{38285:function(e,c,s){e.exports=s.p+"static/media/Instagram.1db611ce14e26c55f5d9.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdice_game=self.webpackChunkdice_game||[]).push([[4797],{94797:function(e,s,c){e.exports=c.p+"static/media/MAHAStartersm.c96e0f643eb4f806fff7.svg"}}]);

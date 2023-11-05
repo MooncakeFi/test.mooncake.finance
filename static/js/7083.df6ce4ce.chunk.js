@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdice_game=self.webpackChunkdice_game||[]).push([[7083],{17083:function(e,c,a){e.exports=a.p+"static/media/PancakeSwap.cf5f3772b63301e11c43.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdice_game=self.webpackChunkdice_game||[]).push([[2471],{92471:function(e,s,c){e.exports=c.p+"static/media/Copy.62046e4009b4b18f466d.svg"}}]);

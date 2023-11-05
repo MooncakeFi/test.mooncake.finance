@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdice_game=self.webpackChunkdice_game||[]).push([[2531],{42531:function(e,c,s){e.exports=s.p+"static/media/Discord.148994ccafbea34c555b.svg"}}]);

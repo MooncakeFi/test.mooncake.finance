@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdice_game=self.webpackChunkdice_game||[]).push([[2809],{42809:function(e,c,s){e.exports=s.p+"static/media/Cross.9c195059312c39cd7d32.svg"}}]);

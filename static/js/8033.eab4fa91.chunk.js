@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdice_game=self.webpackChunkdice_game||[]).push([[8033],{18033:function(e,c,s){e.exports=s.p+"static/media/Ethereum.e66403efafdc442c30ce.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdice_game=self.webpackChunkdice_game||[]).push([[7533],{7533:function(e,a,s){e.exports=s.p+"static/media/Reddit.5719a90a8ba2da45ff83.svg"}}]);

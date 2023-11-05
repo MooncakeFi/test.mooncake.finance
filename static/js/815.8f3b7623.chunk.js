@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdice_game=self.webpackChunkdice_game||[]).push([[815],{20815:function(e,c,s){e.exports=s.p+"static/media/InfoToolTip.32b6b863fecc94642a54.svg"}}]);

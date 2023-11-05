@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdice_game=self.webpackChunkdice_game||[]).push([[4533],{24533:function(e,b,i){e.exports=i.p+"static/media/Firebird.2a64bf025bbb224feb35.svg"}}]);

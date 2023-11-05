@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdice_game=self.webpackChunkdice_game||[]).push([[7102],{17102:function(e,s,a){e.exports=a.p+"static/media/ArrowTailDown.d3437816f149fb6d37bd.svg"}}]);

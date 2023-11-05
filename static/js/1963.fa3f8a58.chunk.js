@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdice_game=self.webpackChunkdice_game||[]).push([[1963],{31963:function(e,c,a){e.exports=a.p+"static/media/DeleteFaded.dcf49d6af8db1bacceb8.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdice_game=self.webpackChunkdice_game||[]).push([[9960],{59960:function(e,s,a){e.exports=a.p+"static/media/ArrowLinkColored.0811ee7163205007539a.svg"}}]);

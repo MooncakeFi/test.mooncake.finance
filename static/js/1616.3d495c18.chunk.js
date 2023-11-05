@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdice_game=self.webpackChunkdice_game||[]).push([[1616],{91616:function(e,a,c){e.exports=c.p+"static/media/USDC.2d4a77a77b7838ffc5e5.svg"}}]);

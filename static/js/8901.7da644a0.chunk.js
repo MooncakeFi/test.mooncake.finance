@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdice_game=self.webpackChunkdice_game||[]).push([[8901],{38901:function(e,c,s){e.exports=s.p+"static/media/USDC_ARB.cb9773e032ad3bf11be7.svg"}}]);

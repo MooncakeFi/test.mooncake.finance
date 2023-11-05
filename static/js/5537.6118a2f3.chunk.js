@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdice_game=self.webpackChunkdice_game||[]).push([[5537],{65537:function(e,a,c){e.exports=c.p+"static/media/Calendar.42009cff1a10b2511fca.svg"}}]);

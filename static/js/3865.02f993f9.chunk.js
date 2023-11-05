@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdice_game=self.webpackChunkdice_game||[]).push([[3865],{3865:function(e,a,c){e.exports=c.p+"static/media/CreameFinance.feb9ff93cf69d49a8e31.svg"}}]);

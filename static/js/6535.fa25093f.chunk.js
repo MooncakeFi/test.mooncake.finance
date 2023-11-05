@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdice_game=self.webpackChunkdice_game||[]).push([[6535],{56535:function(e,s,a){e.exports=a.p+"static/media/COSMIC.54d5110de935f14eeab8.svg"}}]);

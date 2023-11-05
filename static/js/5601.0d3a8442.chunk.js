@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdice_game=self.webpackChunkdice_game||[]).push([[5601],{65601:function(e,a,c){e.exports=c.p+"static/media/POLYGON.0b1affaaa7f2c435e6be.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdice_game=self.webpackChunkdice_game||[]).push([[7883],{77883:function(e,c,a){e.exports=a.p+"static/media/PickleFinance.56d317ceda3ffce3c2f3.svg"}}]);

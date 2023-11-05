@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdice_game=self.webpackChunkdice_game||[]).push([[4385],{14385:function(e,s,a){e.exports=a.p+"static/media/ArrowFilledUp.a2f15f95305356551d1f.svg"}}]);

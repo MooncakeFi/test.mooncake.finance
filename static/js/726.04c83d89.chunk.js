@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdice_game=self.webpackChunkdice_game||[]).push([[726],{40726:function(e,c,s){e.exports=s.p+"static/media/SuccessTick.b7fe86196bbe23c6e998.svg"}}]);

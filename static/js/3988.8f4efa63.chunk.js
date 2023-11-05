@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdice_game=self.webpackChunkdice_game||[]).push([[3988],{43988:function(e,c,s){e.exports=s.p+"static/media/Rinkeby.e66403efafdc442c30ce.svg"}}]);

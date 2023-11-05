@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdice_game=self.webpackChunkdice_game||[]).push([[2066],{92066:function(e,c,a){e.exports=a.p+"static/media/Telegram.5d286c3fdccdd066aa68.svg"}}]);

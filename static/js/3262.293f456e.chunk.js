@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdice_game=self.webpackChunkdice_game||[]).push([[3262],{93262:function(e,c,s){e.exports=s.p+"static/media/ColoredSuccess.04b667b70da810edacfe.svg"}}]);

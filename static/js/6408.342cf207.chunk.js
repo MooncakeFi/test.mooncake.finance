@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdice_game=self.webpackChunkdice_game||[]).push([[6408],{26408:function(e,c,s){e.exports=s.p+"static/media/Cryption.8c3328424a0c38f09d3f.svg"}}]);

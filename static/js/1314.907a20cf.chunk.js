@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdice_game=self.webpackChunkdice_game||[]).push([[1314],{21314:function(e,c,s){e.exports=s.p+"static/media/Goerli.e66403efafdc442c30ce.svg"}}]);

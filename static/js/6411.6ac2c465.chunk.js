@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdice_game=self.webpackChunkdice_game||[]).push([[6411],{96411:function(e,a,c){e.exports=c.p+"static/media/Tick.9d6607918da56df7243a.svg"}}]);
