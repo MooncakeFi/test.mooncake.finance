@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.5586cbdb.css",
-    "main.js": "/static/js/main.56f01282.js",
+    "main.css": "/static/css/main.26a12d30.css",
+    "main.js": "/static/js/main.46cb3c24.js",
     "static/js/4872.da66d325.chunk.js": "/static/js/4872.da66d325.chunk.js",
     "static/js/5208.ded6afc4.chunk.js": "/static/js/5208.ded6afc4.chunk.js",
     "static/js/4385.1ae4152b.chunk.js": "/static/js/4385.1ae4152b.chunk.js",
@@ -213,6 +213,7 @@
     "static/media/Github.svg": "/static/media/Github.552e6f28b535562fb594.svg",
     "static/media/Calendar.svg": "/static/media/Calendar.42009cff1a10b2511fca.svg",
     "static/media/BentoMenu.svg": "/static/media/BentoMenu.0f7f463a4c163f26283a.svg",
+    "static/media/discord.svg": "/static/media/discord.debecff179b518498338968954628ed8.svg",
     "static/media/DFYN.svg": "/static/media/DFYN.c1458f8ab117a3c7258a.svg",
     "static/media/Dfyn.svg": "/static/media/Dfyn.aca462d426f86756c127.svg",
     "static/media/Loans.svg": "/static/media/Loans.b8857870daaf536e4bd5.svg",
@@ -276,8 +277,8 @@
     "static/media/ArrowFilledUp.svg": "/static/media/ArrowFilledUp.a2f15f95305356551d1f.svg",
     "static/media/Empty.svg": "/static/media/Empty.a849b1354152c7f9c73a.svg",
     "static/media/Caution.svg": "/static/media/Caution.b850f01d835349ec606e.svg",
-    "main.5586cbdb.css.map": "/static/css/main.5586cbdb.css.map",
-    "main.56f01282.js.map": "/static/js/main.56f01282.js.map",
+    "main.26a12d30.css.map": "/static/css/main.26a12d30.css.map",
+    "main.46cb3c24.js.map": "/static/js/main.46cb3c24.js.map",
     "3835.865765ac.chunk.js.map": "/static/js/3835.865765ac.chunk.js.map",
     "565.2fb04ea7.chunk.js.map": "/static/js/565.2fb04ea7.chunk.js.map",
     "4673.d13de745.chunk.js.map": "/static/js/4673.d13de745.chunk.js.map",
@@ -325,7 +326,7 @@
     "1611.db9c6d1d.chunk.js.map": "/static/js/1611.db9c6d1d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5586cbdb.css",
-    "static/js/main.56f01282.js"
+    "static/css/main.26a12d30.css",
+    "static/js/main.46cb3c24.js"
   ]
 }
