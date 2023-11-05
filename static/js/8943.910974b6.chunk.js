@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdice_game=self.webpackChunkdice_game||[]).push([[8943],{8943:function(e,a,c){e.exports=c.p+"static/media/CASHBACK.b702aadee68c79370420.svg"}}]);

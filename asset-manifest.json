@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.b384d2c3.css",
-    "main.js": "/static/js/main.38ca246e.js",
+    "main.css": "/static/css/main.5586cbdb.css",
+    "main.js": "/static/js/main.56f01282.js",
     "static/js/4872.da66d325.chunk.js": "/static/js/4872.da66d325.chunk.js",
     "static/js/5208.ded6afc4.chunk.js": "/static/js/5208.ded6afc4.chunk.js",
     "static/js/4385.1ae4152b.chunk.js": "/static/js/4385.1ae4152b.chunk.js",
@@ -89,6 +89,7 @@
     "static/js/2133.1cd01027.chunk.js": "/static/js/2133.1cd01027.chunk.js",
     "static/js/4084.9057b5ef.chunk.js": "/static/js/4084.9057b5ef.chunk.js",
     "static/js/3944.fbda4b06.chunk.js": "/static/js/3944.fbda4b06.chunk.js",
+    "static/js/8943.910974b6.chunk.js": "/static/js/8943.910974b6.chunk.js",
     "static/js/1095.0293b332.chunk.js": "/static/js/1095.0293b332.chunk.js",
     "static/js/6535.fa25093f.chunk.js": "/static/js/6535.fa25093f.chunk.js",
     "static/js/1462.90a9702c.chunk.js": "/static/js/1462.90a9702c.chunk.js",
@@ -98,6 +99,7 @@
     "static/js/1681.1d9359a0.chunk.js": "/static/js/1681.1d9359a0.chunk.js",
     "static/js/4012.f3472758.chunk.js": "/static/js/4012.f3472758.chunk.js",
     "static/js/7618.48be5843.chunk.js": "/static/js/7618.48be5843.chunk.js",
+    "static/js/652.57500890.chunk.js": "/static/js/652.57500890.chunk.js",
     "static/js/9597.1f98d33c.chunk.js": "/static/js/9597.1f98d33c.chunk.js",
     "static/js/7853.5f9b69bb.chunk.js": "/static/js/7853.5f9b69bb.chunk.js",
     "static/js/5601.0d3a8442.chunk.js": "/static/js/5601.0d3a8442.chunk.js",
@@ -110,7 +112,7 @@
     "static/js/7714.22f85042.chunk.js": "/static/js/7714.22f85042.chunk.js",
     "static/js/2527.1429900a.chunk.js": "/static/js/2527.1429900a.chunk.js",
     "static/js/3835.865765ac.chunk.js": "/static/js/3835.865765ac.chunk.js",
-    "static/js/4982.fbad1c65.chunk.js": "/static/js/4982.fbad1c65.chunk.js",
+    "static/js/565.2fb04ea7.chunk.js": "/static/js/565.2fb04ea7.chunk.js",
     "static/js/4119.c0955df6.chunk.js": "/static/js/4119.c0955df6.chunk.js",
     "static/js/4673.d13de745.chunk.js": "/static/js/4673.d13de745.chunk.js",
     "static/js/8660.88a71830.chunk.js": "/static/js/8660.88a71830.chunk.js",
@@ -195,6 +197,8 @@
     "static/media/USDC_ARB.svg": "/static/media/USDC_ARB.cb9773e032ad3bf11be7.svg",
     "static/media/WBTC.svg": "/static/media/WBTC.9708e6cde8ed215e7770.svg",
     "static/media/Sushiswap.svg": "/static/media/Sushiswap.06f8f9f895658fa67c8a.svg",
+    "static/media/CASHBACK.svg": "/static/media/CASHBACK.b702aadee68c79370420.svg",
+    "static/media/MCAKE.svg": "/static/media/MCAKE.b702aadee68c79370420.svg",
     "static/media/USDT.svg": "/static/media/USDT.b702aadee68c79370420.svg",
     "static/media/Instagram.svg": "/static/media/Instagram.1db611ce14e26c55f5d9.svg",
     "static/media/ARTHX.svg": "/static/media/ARTHX.18f87236d32df9382508.svg",
@@ -272,10 +276,10 @@
     "static/media/ArrowFilledUp.svg": "/static/media/ArrowFilledUp.a2f15f95305356551d1f.svg",
     "static/media/Empty.svg": "/static/media/Empty.a849b1354152c7f9c73a.svg",
     "static/media/Caution.svg": "/static/media/Caution.b850f01d835349ec606e.svg",
-    "main.b384d2c3.css.map": "/static/css/main.b384d2c3.css.map",
-    "main.38ca246e.js.map": "/static/js/main.38ca246e.js.map",
+    "main.5586cbdb.css.map": "/static/css/main.5586cbdb.css.map",
+    "main.56f01282.js.map": "/static/js/main.56f01282.js.map",
     "3835.865765ac.chunk.js.map": "/static/js/3835.865765ac.chunk.js.map",
-    "4982.fbad1c65.chunk.js.map": "/static/js/4982.fbad1c65.chunk.js.map",
+    "565.2fb04ea7.chunk.js.map": "/static/js/565.2fb04ea7.chunk.js.map",
     "4673.d13de745.chunk.js.map": "/static/js/4673.d13de745.chunk.js.map",
     "8660.88a71830.chunk.js.map": "/static/js/8660.88a71830.chunk.js.map",
     "9473.9d2254fe.chunk.js.map": "/static/js/9473.9d2254fe.chunk.js.map",
@@ -321,7 +325,7 @@
     "1611.db9c6d1d.chunk.js.map": "/static/js/1611.db9c6d1d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b384d2c3.css",
-    "static/js/main.38ca246e.js"
+    "static/css/main.5586cbdb.css",
+    "static/js/main.56f01282.js"
   ]
 }
