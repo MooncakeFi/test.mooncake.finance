@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.9315afd2.css",
-    "main.js": "/static/js/main.a57cabe3.js",
+    "main.css": "/static/css/main.e2bd58bd.css",
+    "main.js": "/static/js/main.cbf3512e.js",
     "static/js/4872.da66d325.chunk.js": "/static/js/4872.da66d325.chunk.js",
     "static/js/5208.ded6afc4.chunk.js": "/static/js/5208.ded6afc4.chunk.js",
     "static/js/4385.1ae4152b.chunk.js": "/static/js/4385.1ae4152b.chunk.js",
@@ -228,6 +228,7 @@
     "static/media/Settings.svg": "/static/media/Settings.f68d35c5d6c64bf8c8be.svg",
     "static/media/Sync.svg": "/static/media/Sync.e6fce33428ababaff6c6.svg",
     "static/media/ProposalPending.svg": "/static/media/ProposalPending.e2fa4fd2119ad430c53c.svg",
+    "static/media/twitter-logo.svg": "/static/media/twitter-logo.6c453e0fe4189ad07aed764aaade8962.svg",
     "static/media/ColoredSuccess.svg": "/static/media/ColoredSuccess.04b667b70da810edacfe.svg",
     "static/media/Wallet.svg": "/static/media/Wallet.671b6fc9828f2998e8e4.svg",
     "static/media/Pending.svg": "/static/media/Pending.327a4ed063c9cc8e6fae.svg",
@@ -276,8 +277,8 @@
     "static/media/ArrowFilledUp.svg": "/static/media/ArrowFilledUp.a2f15f95305356551d1f.svg",
     "static/media/Empty.svg": "/static/media/Empty.a849b1354152c7f9c73a.svg",
     "static/media/Caution.svg": "/static/media/Caution.b850f01d835349ec606e.svg",
-    "main.9315afd2.css.map": "/static/css/main.9315afd2.css.map",
-    "main.a57cabe3.js.map": "/static/js/main.a57cabe3.js.map",
+    "main.e2bd58bd.css.map": "/static/css/main.e2bd58bd.css.map",
+    "main.cbf3512e.js.map": "/static/js/main.cbf3512e.js.map",
     "4673.d13de745.chunk.js.map": "/static/js/4673.d13de745.chunk.js.map",
     "8660.88a71830.chunk.js.map": "/static/js/8660.88a71830.chunk.js.map",
     "9473.9d2254fe.chunk.js.map": "/static/js/9473.9d2254fe.chunk.js.map",
@@ -322,7 +323,7 @@
     "1611.e20eb88a.chunk.js.map": "/static/js/1611.e20eb88a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9315afd2.css",
-    "static/js/main.a57cabe3.js"
+    "static/css/main.e2bd58bd.css",
+    "static/js/main.cbf3512e.js"
   ]
 }
