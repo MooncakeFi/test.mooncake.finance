@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.aa1ddbe5.css",
-    "main.js": "/static/js/main.3020821d.js",
+    "main.css": "/static/css/main.d12c9bf1.css",
+    "main.js": "/static/js/main.cfe059a4.js",
     "static/js/4872.da66d325.chunk.js": "/static/js/4872.da66d325.chunk.js",
     "static/js/5208.ded6afc4.chunk.js": "/static/js/5208.ded6afc4.chunk.js",
     "static/js/4385.1ae4152b.chunk.js": "/static/js/4385.1ae4152b.chunk.js",
@@ -156,8 +156,11 @@
     "static/js/741.694db7eb.chunk.js": "/static/js/741.694db7eb.chunk.js",
     "static/js/5419.eb256d8e.chunk.js": "/static/js/5419.eb256d8e.chunk.js",
     "static/js/1611.e20eb88a.chunk.js": "/static/js/1611.e20eb88a.chunk.js",
+    "static/media/background.png": "/static/media/background.bc7f66b36ca6a0680b50.png",
     "static/media/referrals.jpeg": "/static/media/referrals.2ad66047f1d6fd1b0915.jpeg",
+    "static/media/slot-player.wav": "/static/media/slot-player.d61172aa870c8a14a3c2.wav",
     "static/media/dice-win.wav": "/static/media/dice-win.952b0801786b04a70a01.wav",
+    "static/media/slot-win.wav": "/static/media/slot-win.6cd1ae7021dc6c8692d7.wav",
     "static/media/Firebird.svg": "/static/media/Firebird.2a64bf025bbb224feb35.svg",
     "static/media/CNT.svg": "/static/media/CNT.0cebb57517e3a4472221.svg",
     "static/media/Cryption.svg": "/static/media/Cryption.8c3328424a0c38f09d3f.svg",
@@ -175,12 +178,14 @@
     "static/media/NetworkArbitrum.svg": "/static/media/NetworkArbitrum.307d5a548893d0a7197a.svg",
     "static/media/PickleFinance.svg": "/static/media/PickleFinance.56d317ceda3ffce3c2f3.svg",
     "static/media/gameIcon.png": "/static/media/gameIcon.f471ba09577821570627.png",
+    "static/media/spin-button.png": "/static/media/spin-button.e83b90263188b8dfc7c6.png",
     "static/media/FORWARD.svg": "/static/media/FORWARD.6e5deca49c74f7777f89.svg",
     "static/media/dice-sound.mp3": "/static/media/dice-sound.a4c196e58839debc59b8.mp3",
     "static/media/HOPE.svg": "/static/media/HOPE.d3459a6f2550ef09b4d7.svg",
     "static/media/COSMIC.svg": "/static/media/COSMIC.54d5110de935f14eeab8.svg",
     "static/media/CosmicFinance.svg": "/static/media/CosmicFinance.94a05c1984a951e38a28.svg",
     "static/media/brandLogo.png": "/static/media/brandLogo.ab65bbf1daddf04bdae0.png",
+    "static/media/wooden-plank.png": "/static/media/wooden-plank.d33a5bd25009f2782d66.png",
     "static/media/MAHAStarterlg.svg": "/static/media/MAHAStarterlg.08f84db8c369c14c9f24.svg",
     "static/media/MAHAStartersm.svg": "/static/media/MAHAStartersm.c96e0f643eb4f806fff7.svg",
     "static/media/google.png": "/static/media/google.960c670a7a8d952eba35.png",
@@ -278,8 +283,8 @@
     "static/media/ArrowFilledUp.svg": "/static/media/ArrowFilledUp.a2f15f95305356551d1f.svg",
     "static/media/Empty.svg": "/static/media/Empty.a849b1354152c7f9c73a.svg",
     "static/media/Caution.svg": "/static/media/Caution.b850f01d835349ec606e.svg",
-    "main.aa1ddbe5.css.map": "/static/css/main.aa1ddbe5.css.map",
-    "main.3020821d.js.map": "/static/js/main.3020821d.js.map",
+    "main.d12c9bf1.css.map": "/static/css/main.d12c9bf1.css.map",
+    "main.cfe059a4.js.map": "/static/js/main.cfe059a4.js.map",
     "4673.d13de745.chunk.js.map": "/static/js/4673.d13de745.chunk.js.map",
     "8660.88a71830.chunk.js.map": "/static/js/8660.88a71830.chunk.js.map",
     "9473.9d2254fe.chunk.js.map": "/static/js/9473.9d2254fe.chunk.js.map",
@@ -324,7 +329,7 @@
     "1611.e20eb88a.chunk.js.map": "/static/js/1611.e20eb88a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.aa1ddbe5.css",
-    "static/js/main.3020821d.js"
+    "static/css/main.d12c9bf1.css",
+    "static/js/main.cfe059a4.js"
   ]
 }
